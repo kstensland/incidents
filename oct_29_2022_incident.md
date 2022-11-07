@@ -12,7 +12,7 @@ There were 4 divers involved:
 3. **Safety A** - Safety for Diver A. Meet Diver A at 15 meters.
 4. **Safety B** - Safety for Diver B. Meet Diver B at 15 meters.
 
-This is considered an easy dive for all the divers involved. We have all done many dives to the similar or deeper depths in the same conditions in the same location. The intention of filming was to document the dive for a skills evaluation.
+This is considered an easy dive for all the divers involved. We have all done many dives to similar or deeper depths, in the same conditions, and in the same location. The intention of filming was to document the dive for a skills evaluation.
 
 It's also worth noting that the visbility in this lake is pretty poor, and it gets pitch black at around 20 meters. We always have a light on the bottom weight, and Diver B was carrying a flashlight to keep Diver A lit up for the camera.
 
@@ -70,10 +70,10 @@ Despite the things that went wrong, there were a few decisions we made in the pl
 
 There are a few takeaways from this to make sure the same mistakes don't happen again.
 
-1. **Any signal should be presumed as a bad signal!** This is the obvious one. There is no reason for a diver to communicate anything except "I need help!" Even if I was telling my safety to move out of frame, they should make the assumption that I need help. A good camera shot is not worth the risk of blacking out. I understand this rule doesn't apply for competition dives as a safety touching a diver can ruin a white-card, but this was not a competition.
+1. **Any signal should be presumed as a bad signal!** This is the obvious one. There is no reason for a diver to communicate anything except "I need help!" Even if I was telling my safety to move out of frame, they should make the assumption that I need help. A good camera shot is not worth the risk of blacking out. [Hawaii HammaHs has a great video of a very similar incident](https://www.youtube.com/watch?v=srpZeGYQ0WM) and comes up with the same rule. I understand this rule doesn't apply for competition dives as a safety touching a diver can ruin a white-card...but this was not a competition dive.
 2. **Plan your dive and dive your plan**. Borrowing this one from the scuba world. This was a complicated dive. If we didn't plan ahead, it could have been worse.
-3. **Pracice safety drills more often.** There was a unanimous agreement after this incident that we should run through safety drills more often.
-4. **Be concious of your limitations.** I should have known after my first dive of the day that was not in the best shape to do more 30 meter dives. I also should have practiced filming dives more often and at lower depths so that those skills are more refined, and come more naturally.
+3. **Practice safety drills more often.** There was a unanimous agreement after this incident that we should run through safety drills more often.
+4. **Be concious of your limitations.** I should have known after my first dive of the day that I was not in the best shape to do more 30 meter dives. I also should have practiced filming dives more often and at shallower depths so that those skills are refined, and come naturally.
 
 ## So...uh...how's the footage?
 Here's the video recorded by Diver B. It was not my camera, and isn't hosted on my channel. https://www.youtube.com/watch?v=EC35LUD2roY
